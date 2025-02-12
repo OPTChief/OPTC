@@ -1,0 +1,1103 @@
+{
+   "url": "https://app.gb.onepiece-tc.jp/gdpr/terms?locale=en",
+   "method": "GET",
+   "time": "18:17:14"
+}{ 
+   "url": "https://app.gb.onepiece-tc.jp/top_banners?locale=en",
+   "method": "GET",
+   "time": "18:17:30"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/client_requirements/need_update?locale=en",
+   "method": "GET",
+   "time": "18:17:31"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/users/mydata.json",
+   "method": "POST",
+   "time": "18:17:34",
+   "decrypted_body": {
+      "fellows_last_update_time": 0
+   }
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/top_banner_archives/03cc6106bf90a8505324/top_banner_0003.png.nty",
+   "method": "GET",
+   "time": "18:17:35"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/resources/resource_list_path.json",
+   "method": "GET",
+   "time": "18:17:36"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/resource_lists/20230118141721_production.nty",
+   "method": "GET",
+   "time": "18:17:36"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/download_bonuses/start",
+   "method": "POST",
+   "time": "18:17:37",
+   "decrypted_body": {
+      "resource_list": "20230118141721_production.nty"
+   }
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/archives/main/sqlite_database/SakuraMasterDb01-226.nty",
+   "method": "GET",
+   "time": "18:17:38"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/archives/main/sqlite_database/SakuraMasterDb02-205.nty",
+   "method": "GET",
+   "time": "18:17:39"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/archives/main/sqlite_database/SakuraMasterDb03-279.nty",
+   "method": "GET",
+   "time": "18:17:40"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/archives/main/sqlite_database/SakuraMasterDb04-225.nty",
+   "method": "GET",
+   "time": "18:17:41"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/archives/main/sqlite_database/SakuraMasterDb05-238.nty",
+   "method": "GET",
+   "time": "18:17:41"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/archives/main/sqlite_database/SakuraMasterDb06-287.nty",
+   "method": "GET",
+   "time": "18:17:42"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/archives/main/sqlite_database/SakuraMasterDb07-186.nty",
+   "method": "GET",
+   "time": "18:17:50"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/archives/main/sqlite_database/SakuraMasterDb08-200.nty",
+   "method": "GET",
+   "time": "18:17:51"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/archives/main/sqlite_database/SakuraMasterDb09-278.nty",
+   "method": "GET",
+   "time": "18:17:51"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/archives/main/sqlite_database/SakuraMasterDb10-53.nty",
+   "method": "GET",
+   "time": "18:17:52"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/download_bonuses/finish",
+   "method": "POST",
+   "time": "18:17:53",
+   "decrypted_body": {
+      "resource_list": "20230118141721_production.nty"
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_limit_break_items.json?page=1",
+   "method": "GET",
+   "time": "18:17:55"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/users/total_login_bonus.json",
+   "method": "GET",
+   "time": "18:17:55"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_items/effect_pencils",
+   "method": "GET",
+   "time": "18:17:55"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/kizuna_battle_events/receive_rewards",
+   "method": "POST",
+   "time": "18:17:56",
+   "decrypted_body": {
+      "_dummy": "1"
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_map_game_leagues",
+   "method": "GET",
+   "time": "18:17:56"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/pirates_arena/current",
+   "method": "GET",
+   "time": "18:17:56"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/users/quest_support_info.json",
+   "method": "GET",
+   "time": "18:17:58"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_characters.json?page=1",
+   "method": "GET",
+   "time": "18:17:58"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_character_libraries.json?page=1",
+   "method": "GET",
+   "time": "18:17:58"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/fellows.json?page=1",
+   "method": "GET",
+   "time": "18:17:59"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_ships.json?page=1",
+   "method": "GET",
+   "time": "18:17:59"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/adventurers.json",
+   "method": "GET",
+   "time": "18:17:59"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_gacha_appearance_conditions",
+   "method": "GET",
+   "time": "18:18:00"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/app_informations.json?page=1",
+   "method": "GET",
+   "time": "18:18:00"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_achievements?page=1",
+   "method": "GET",
+   "time": "18:18:01"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_missions?page=1",
+   "method": "GET",
+   "time": "18:18:01"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_achievements/set",
+   "method": "POST",
+   "time": "18:18:02",
+   "decrypted_body": {
+      "achievement_ids": [
+         1,
+         2
+      ],
+      "conjunction_ids": [
+         0
+      ]
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_items/stamina_recover_meats",
+   "method": "GET",
+   "time": "18:18:02"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorial_gachas/confirm.json",
+   "method": "POST",
+   "time": "18:18:02",
+   "decrypted_body": {
+      "total": 1
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/alliance",
+   "method": "GET",
+   "time": "18:18:03"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/invitations/info",
+   "method": "GET",
+   "time": "18:18:03"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_jewel_events",
+   "method": "GET",
+   "time": "18:18:03"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_errands?page=1",
+   "method": "GET",
+   "time": "18:18:04"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/pirates_arena_stages/changing_effect",
+   "method": "GET",
+   "time": "18:18:04"
+}
+   "url": "https://app.gb.onepiece-tc.jp/user_characters/merge",
+"method": "POST",
+"time": "18:18:10",
+"decrypted_body": {
+   "page": 1
+}
+{
+   "url": "https://app.gb.onepiece-tc.jp/tutorial_gachas/execute.json",
+   "method": "POST",
+   "time": "18:18:13",
+   "decrypted_body": {
+      "total": 1,
+      "transaction_id": 543380237
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/resources/resource_list_path.json",
+   "method": "GET",
+   "time": "18:18:14"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/users/token",
+   "method": "POST",
+   "time": "18:18:15",
+   "decrypted_body": {
+      "push_notification_token": "98c05939d9a603f65415f669911a16138943811e822c5b9c42d0ea5fefb58bdc"
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_login_stamp_campaigns/execute",
+   "method": "POST",
+   "time": "18:19:11",
+   "decrypted_body": {
+      "_dummy": "1"
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/messagings/received.json",
+   "method": "POST",
+   "time": "18:19:13",
+   "decrypted_body": {
+      "messaging_ids": [
+         105370194125064508,
+         105370194359945534,
+         105372762088090025,
+         105372762423634347,
+         105372762725624237,
+         105372763061168559
+      ]
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/facilities?skip_errand=true",
+   "method": "GET",
+   "time": "18:19:14"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "18:19:44",
+   "decrypted_body": {
+      "progress": 2
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/resources/scenario_resource_path.json",
+   "method": "POST",
+   "time": "18:19:45",
+   "decrypted_body": {
+      "area_id": 1000
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/scenarios/read",
+   "method": "POST",
+   "time": "18:20:06",
+   "decrypted_body": {
+      "scenario_ids": [
+         101
+      ]
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/resources/scenario_resource_path.json",
+   "method": "POST",
+   "time": "18:22:09",
+   "decrypted_body": {
+      "area_id": 1000
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/scenarios/read",
+   "method": "POST",
+   "time": "18:22:20",
+   "decrypted_body": {
+      "scenario_ids": [
+         103
+      ]
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/quests/start.json",
+   "method": "POST",
+   "time": "18:22:29",
+   "decrypted_body": {
+      "id": 90000,
+      "deck_position": 1,
+      "increased_result_coefficient": 1
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/quests/execute.json",
+   "method": "POST",
+   "time": "18:22:31",
+   "decrypted_body": {
+      "user_quest_id": 105379391058496117
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "18:22:34",
+   "decrypted_body": {
+      "progress": 5
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "18:22:54",
+   "decrypted_body": {
+      "progress": 21
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "18:23:00",
+   "decrypted_body": {
+      "progress": 29
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "18:23:18",
+   "decrypted_body": {
+      "progress": 36
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "18:26:22",
+   "decrypted_body": {
+      "progress": 57
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/quests/finish",
+   "method": "POST",
+   "time": "18:28:13",
+   "decrypted_body": {
+      "user_quest_id": 105379391058496117,
+      "retry_count": 0,
+      "base_attacks": [
+         0,
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "kill_count": 0,
+      "auto_used": false,
+      "battle_log": {
+         "defeat_num": [],
+         "wave_damage": [],
+         "wave_turn": [],
+         "wave_skill": []
+      }
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "18:28:48",
+   "decrypted_body": {
+      "progress": 86
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/resources/scenario_resource_path.json",
+   "method": "POST",
+   "time": "18:28:50",
+   "decrypted_body": {
+      "area_id": 1000
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/scenarios/read",
+   "method": "POST",
+   "time": "18:28:55",
+   "decrypted_body": {
+      "scenario_ids": [
+         104
+      ]
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/resources/scenario_resource_path.json",
+   "method": "POST",
+   "time": "18:29:24",
+   "decrypted_body": {
+      "area_id": 1000
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/scenarios/read",
+   "method": "POST",
+   "time": "18:29:28",
+   "decrypted_body": {
+      "scenario_ids": [
+         105
+      ]
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "18:29:34",
+   "decrypted_body": {
+      "progress": 87
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/quests/start.json",
+   "method": "POST",
+   "time": "18:29:35",
+   "decrypted_body": {
+      "id": 90001,
+      "deck_position": 1,
+      "increased_result_coefficient": 1
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/quests/execute.json",
+   "method": "POST",
+   "time": "18:29:37",
+   "decrypted_body": {
+      "user_quest_id": 105393670863884245
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "18:29:46",
+   "decrypted_body": {
+      "progress": 90
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/resources/scenario_resource_path.json",
+   "method": "POST",
+   "time": "18:31:15",
+   "decrypted_body": {
+      "area_id": 0
+   }
+}
+{
+   "url": "https://app.gb.onepiece-tc.jp/scenarios/read",
+   "method": "POST",
+   "time": "18:31:21",
+   "decrypted_body": {
+      "scenario_ids": [
+         106
+      ]
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/quests/finish",
+   "method": "POST",
+   "time": "18:57:01",
+   "decrypted_body": {
+      "user_quest_id": 105393670863884245,
+      "retry_count": 0,
+      "base_attacks": [
+         0,
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "kill_count": 0,
+      "auto_used": false,
+      "battle_log": {
+         "defeat_num": [],
+         "wave_damage": [],
+         "wave_turn": [],
+         "wave_skill": []
+      }
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_characters/105448910147522682",
+   "method": "GET",
+   "time": "18:57:17"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "18:57:22",
+   "decrypted_body": {
+      "progress": 109
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/resources/scenario_resource_path.json",
+   "method": "POST",
+   "time": "18:57:23",
+   "decrypted_body": {
+      "area_id": 1000
+   }
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/scenario_archives/03cc6106bf90a8505324/scenario_000_03_110.txt.nty",
+   "method": "GET",
+   "time": "18:57:24"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/scenario_archives/03cc6106bf90a8505324/scenario_000_03_110.sc.nty",
+   "method": "GET",
+   "time": "18:57:24"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/scenario_archives/03cc6106bf90a8505324/scenario_character_nushi1_70.png.nty",
+   "method": "GET",
+   "time": "18:57:39"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/scenarios/read",
+   "method": "POST",
+   "time": "18:57:39",
+   "decrypted_body": {
+      "scenario_ids": [
+         107
+      ]
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorial_compositions/execute.json",
+   "method": "POST",
+   "time": "18:58:52",
+   "decrypted_body": {
+      "master_user_character_id": 105369438829547614,
+      "slave_user_character_ids": [
+         105369438829547616
+      ]
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "19:01:38",
+   "decrypted_body": {
+      "progress": 114
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/pirates_arena/current",
+   "method": "GET",
+   "time": "19:01:41"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/archives/main/character_sd/0002_luffy-0.nty",
+   "method": "GET",
+   "time": "19:01:41"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/archives/main/character_sd/0002_luffy_reverse-0.nty",
+   "method": "GET",
+   "time": "19:01:42"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorial_compositions/evolution_execute.json",
+   "method": "POST",
+   "time": "19:02:08",
+   "decrypted_body": {
+      "master_user_character_id": 105369438829547614,
+      "slave_user_character_ids": [
+         105369438829547615
+      ],
+      "evolution_recipe_id": 1
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "19:02:09",
+   "decrypted_body": {
+      "progress": 117
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorial_gachas/execute.json",
+   "method": "POST",
+   "time": "19:02:20",
+   "decrypted_body": {
+      "total": 1
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_characters/105370783020608028",
+   "method": "GET",
+   "time": "19:02:52"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/decks/bulk_update",
+   "method": "POST",
+   "time": "19:03:14",
+   "decrypted_body": {
+      "deck_type": 1,
+      "decks": [
+         {
+            "user_deck_characters": {
+               "1": {
+                  "user_character_id": 105369438829547614,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "2": {
+                  "user_character_id": 105370783020608028,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "3": {
+                  "user_character_id": 105369438829547618,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "4": {
+                  "user_character_id": 105369438829547617,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "5": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               }
+            },
+            "user_ship": 105369439299309667,
+            "active": true
+         },
+         {
+            "user_deck_characters": {
+               "1": {
+                  "user_character_id": 105369438829547614,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "2": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "3": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "4": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "5": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               }
+            },
+            "user_ship": 105369439299309667
+         },
+         {
+            "user_deck_characters": {
+               "1": {
+                  "user_character_id": 105369438829547614,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "2": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "3": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "4": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "5": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               }
+            },
+            "user_ship": 105369439299309667
+         },
+         {
+            "user_deck_characters": {
+               "1": {
+                  "user_character_id": 105369438829547614,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "2": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "3": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "4": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "5": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               }
+            },
+            "user_ship": 105369439299309667
+         },
+         {
+            "user_deck_characters": {
+               "1": {
+                  "user_character_id": 105369438829547614,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "2": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "3": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "4": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "5": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               }
+            },
+            "user_ship": 105369439299309667
+         },
+         {
+            "user_deck_characters": {
+               "1": {
+                  "user_character_id": 105369438829547614,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "2": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "3": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "4": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "5": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               }
+            },
+            "user_ship": 105369439299309667
+         },
+         {
+            "user_deck_characters": {
+               "1": {
+                  "user_character_id": 105369438829547614,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "2": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "3": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "4": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "5": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               }
+            },
+            "user_ship": 105369439299309667
+         },
+         {
+            "user_deck_characters": {
+               "1": {
+                  "user_character_id": 105369438829547614,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "2": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "3": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "4": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               },
+               "5": {
+                  "user_character_id": null,
+                  "versus_child_character_id": null,
+                  "default_multiple_child_character_index": null,
+                  "support_user_character_id": null
+               }
+            },
+            "user_ship": 105369439299309667
+         }
+      ]
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "19:03:15",
+   "decrypted_body": {
+      "progress": 126
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/users",
+   "method": "POST",
+   "time": "19:03:33",
+   "decrypted_body": {
+      "nickname": "PAS DE RALENTIR 3"
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/resources/scenario_resource_path.json",
+   "method": "POST",
+   "time": "19:03:46",
+   "decrypted_body": {
+      "area_id": 1000
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/scenarios/read",
+   "method": "POST",
+   "time": "19:03:57",
+   "decrypted_body": {
+      "scenario_ids": [
+         108
+      ]
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/loading_game/add",
+   "method": "POST",
+   "time": "19:04:33",
+   "decrypted_body": {
+      "sequence": 1,
+      "don": 50,
+      "point": 5
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/messagings.json?page=1",
+   "method": "GET",
+   "time": "19:04:35"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/finish",
+   "method": "POST",
+   "time": "19:04:36",
+   "decrypted_body": {
+      "_dummy": "1"
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_login_stamp_campaigns/execute",
+   "method": "POST",
+   "time": "19:04:37",
+   "decrypted_body": {
+      "_dummy": "1"
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/users/mydata.json",
+   "method": "POST",
+   "time": "19:05:01",
+   "decrypted_body": {
+      "fellows_last_update_time": 915177600
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_gacha_appearance_conditions",
+   "method": "GET",
+   "time": "19:05:03"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/app_informations.json?page=1",
+   "method": "GET",
+   "time": "19:05:04"
+}{
+   "url": "https://cdn.gb.onepiece-tc.jp/en/banner_archives/03cc6106bf90a8505324/ENapp_banner_sugofes_501_IOURLO7uVV.png.nty",
+   "method": "GET",
+   "time": "19:05:15"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/tutorials/log",
+   "method": "POST",
+   "time": "19:05:17",
+   "decrypted_body": {
+      "progress": 1000
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/resources/scenario_resource_path.json",
+   "method": "POST",
+   "time": "19:07:34",
+   "decrypted_body": {
+      "area_id": 2
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/scenarios/read",
+   "method": "POST",
+   "time": "19:07:37",
+   "decrypted_body": {
+      "scenario_ids": [
+         1
+      ]
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/admin_gifts/check_important_notice.json",
+   "method": "GET",
+   "time": "19:07:55"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/resources/scenario_resource_path.json",
+   "method": "POST",
+   "time": "19:07:57",
+   "decrypted_body": {
+      "area_id": 2
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/scenarios/read",
+   "method": "POST",
+   "time": "19:08:05",
+   "decrypted_body": {
+      "scenario_ids": [
+         2
+      ]
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/quests/start.json",
+   "method": "POST",
+   "time": "19:08:11",
+   "decrypted_body": {
+      "id": 1,
+      "deck_position": 1,
+      "friend_user": {
+         "id": 50010437,
+         "main_deck": true,
+         "character_id": 12965,
+         "level": 135,
+         "skill_level": 7,
+         "plus_stamina": 100,
+         "plus_attack": 100,
+         "plus_healing": 100,
+         "limit_break_sequence": 50,
+         "option_skill_1_id": 2,
+         "option_skill_1_plus": 5,
+         "option_skill_2_id": 3,
+         "option_skill_2_plus": 5,
+         "option_skill_3_id": 1,
+         "option_skill_3_plus": 5,
+         "option_skill_4_id": 4,
+         "option_skill_4_plus": 5,
+         "option_skill_5_id": 5,
+         "option_skill_5_plus": 5,
+         "potential_skill_1_level": 5,
+         "potential_skill_2_level": 5,
+         "potential_skill_3_level": 5,
+         "level_limit_break_composition_count": 14
+      },
+      "increased_result_coefficient": 1
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/quests/execute.json",
+   "method": "POST",
+   "time": "19:08:16",
+   "decrypted_body": {
+      "user_quest_id": 105471377246546550
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/quests/finish",
+   "method": "POST",
+   "time": "19:09:12",
+   "decrypted_body": {
+      "user_quest_id": 105471377246546550,
+      "retry_count": 0,
+      "base_attacks": [
+         76,
+         1134,
+         334,
+         2687,
+         497,
+         0
+      ],
+      "kill_count": 6,
+      "auto_used": false,
+      "battle_log": {
+         "defeat_num": [
+            1,
+            3,
+            6
+         ],
+         "wave_damage": [
+            46040,
+            52240,
+            76354
+         ],
+         "wave_turn": [
+            1,
+            2,
+            3
+         ],
+         "wave_skill": []
+      }
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/user_characters/sell/",
+   "method": "POST",
+   "time": "19:09:58",
+   "decrypted_body": {
+      "user_characters": [
+         {
+            "id": 105473441057696369,
+            "quantity": 1 
+         },
+         {
+            "id": 105473441594567283,
+            "quantity": 1
+         },
+         {
+            "id": 105473442064329333,
+            "quantity": 1
+         }
+      ],
+      "result": true
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/users/50010437/fellow_request",
+   "method": "POST",
+   "time": "19:10:07",
+   "decrypted_body": {
+      "sent_from": 100
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/dpoint/goods/purchasable",
+   "method": "GET",
+   "time": "19:10:09"
+}{
+   "url": "https://app.gb.onepiece-tc.jp/resources/scenario_resource_path.json",
+   "method": "POST",
+   "time": "19:10:10",
+   "decrypted_body": {
+      "area_id": 2
+   }
+}{
+   "url": "https://app.gb.onepiece-tc.jp/scenarios/read",
+   "method": "POST",
+   "time": "19:10:12",
+   "decrypted_body": {
+      "scenario_ids": [
+         3
+      ]
+   }
+}

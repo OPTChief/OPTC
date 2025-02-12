@@ -1,0 +1,35 @@
+Commands of 2023/08/07
+---------------------------------
+
+To stop a command from executing, hold ctrl + c
+
+'discord' -> Redirect to the discord server.
+'info' -> Account information.
+'quests' -> Clear all unfinished quest stages.
+'events' -> Clear all unfinished events stages. 
+'omegafarm' -> Clear all unfinished stages. 
+'pvp' -> Clear all pvp cpu stages.
+'recruit' -> Recruit characters from current available banners. 
+'gift' -> Accepts gifts.
+'team' -> Change composition of a deck and ship.
+'autoteam' -> Autoteam with a specific type automatically exemple: autoteam qck
+'transfer' -> Generates transfer code.
+'listquests' -> List of all currently available quests.
+'listevents' ->  List of currently available events.
+'stage' -> Completes stage given ID.
+'autosell' -> Auto sell cards.
+'autosell <id>' -> Auto sell cards with specific id exemple: autosell 22.
+'invitation' -> Enter an invitation code for friend missions and both get rewards. 
+'nickname' -> Change nickname. 
+'rank' -> check your rank, if empty, means that's a reroll account, or in the worst account is warned.
+'friend' -> Run stages with a friend leader, initialized to ON.
+'friendoff' ->  Run stages without friend leader
+'faccept' -> Accept all friend requests.
+'frequest' -> Send a friend request to a specific user.
+'grandvoyage' -> Clear Grand Voyage if you have units that meet the conditions.
+'pka' -> Farm pirate king adventure.
+'box' -> Generates PNGs of your box (5* or more). 
+'custom' -> Run command directly with txt file.
+'tsummon' -> Enable/Disable cards display on summons (Default to FALSE).
+'tmeat' -> Enable/Disable refill stamina with meat (Default to TRUE).
+'island' -> Accepts Gather Island rewards.
